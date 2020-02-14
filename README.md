@@ -287,6 +287,7 @@ Reference links
 * https://www.nginx.com/blog/introducing-cicd-with-nginx-and-nginx-plus/
 * https://www.nginx.com/blog/testing-the-performance-of-nginx-and-nginx-plus-web-servers/
 * https://www.nginx.com/blog/smart-efficient-byte-range-caching-nginx/
+* https://www.nginx.com/blog/nginx-high-performance-caching/
 * https://nginx.org/r/pcre_jit
 * https://nginx.org/r/ssl_engine (`openssl engine -t `)
 * https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/
@@ -304,6 +305,7 @@ Reference links
 * https://ospi.fi/blog/centos-7-raise-nofile-limit-for-nginx.html
 * https://www.linode.com/docs/websites/nginx/configure-nginx-for-optimized-performance
 * https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/
+* https://gist.github.com/kekru/c09dbab5e78bf76402966b13fa72b9d2
 
 
 Static analyzers
